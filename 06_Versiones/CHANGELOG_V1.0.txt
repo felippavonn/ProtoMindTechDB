@@ -1,0 +1,22 @@
+# ProtoMindTech - Base de Datos
+## Versión 1.0 (31/08/2025)
+
+### 🚀 Cambios introducidos:
+- Creación de la base de datos ProtoMindTech.
+- Implementación de tablas principales:
+  - Empleados
+  - Clientes
+  - Categorías
+  - Productos
+  - Ventas
+  - Detalle_Venta
+- Relaciones entre tablas con claves foráneas.
+- Definición de restricciones de integridad:
+  - Primary keys
+  - Foreign keys
+  - Unicidad en email, teléfono y DNI
+- Diseño orientado a escalabilidad (preparado para futuras versiones).
+
+### ✅ Estado:
+- Primera versión estable del sistema de base de datos.
+- Lista para pruebas de inserción y consultas.

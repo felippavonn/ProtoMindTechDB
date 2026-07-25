@@ -1,0 +1,2 @@
+HISTORIAL DE VERSIONES
+En este archivo se registrarán los cambios hechos en cada versión en tiempo y forma.

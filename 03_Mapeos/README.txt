@@ -1,0 +1,1 @@
+Aquí se encuentran los gráficos de los mapeos de la base de datos ProtoMindTech.
