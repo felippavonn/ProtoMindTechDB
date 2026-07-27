@@ -9,12 +9,12 @@ Proyecto orientado a desarrollar una base de datos escalable y profesional para 
 Versión 1.0 – Estructura básica implementada.
 
 ## Estructura del repositorio
-- 01_Codigo → Scripts SQL
-- 02_Diagramas → DER y diagramas
-- 03_Mapeos → Gráficos de mapeos
-- 04_Backups → Copias de seguridad
-- 05_PruebasConsultas → Testing
-- 06_Versiones → CHANGELOG
+- **01_Codigo** → Scripts SQL
+- **02_Diagramas** → DER y diagramas
+- **03_Mapeos** → Gráficos de mapeos
+- **04_Backups** → Copias de seguridad
+- **05_PruebasConsultas** → Testing
+- **06_Versiones** → CHANGELOG
 
 ## Tecnologías
 - MySQL / SQL
